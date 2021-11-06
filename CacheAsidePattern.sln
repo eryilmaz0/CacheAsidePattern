@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CacheAsidePattern.API", "CacheAsidePattern.API\CacheAsidePattern.API.csproj", "{F1280449-BE5A-4F2B-BB24-87CA36BA5D63}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1280449-BE5A-4F2B-BB24-87CA36BA5D63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1280449-BE5A-4F2B-BB24-87CA36BA5D63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1280449-BE5A-4F2B-BB24-87CA36BA5D63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1280449-BE5A-4F2B-BB24-87CA36BA5D63}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {47C3399C-8CA8-47CD-8FA5-3BF1B19C4034}
+	EndGlobalSection
+EndGlobal
